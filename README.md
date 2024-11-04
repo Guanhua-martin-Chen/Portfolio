@@ -1,4 +1,4 @@
-# Stats-Portfolio
+# Portfolio
 ## My Projects:
 ### 1. Explore IMDB Movies:
 https://github.com/Guanhua-martin-Chen/Explore-IMDB-Movies
