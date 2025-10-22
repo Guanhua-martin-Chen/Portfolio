@@ -1,6 +1,6 @@
 # Guanhua Chen
 ### Data Science & Machine Learning | UCLA M.Eng in Data Science
-Los Angeles, CA | gchen2002@ucla.edu | [LinkedIn](https://www.linkedin.com/in/guanhua-chen-86408822b) | [GitHub](https://github.com/Guanhua-martin-Chen)
+Los Angeles, CA | gchen2002@g.ucla.edu | [LinkedIn](https://www.linkedin.com/in/guanhua-chen-86408822b) | [GitHub](https://github.com/Guanhua-martin-Chen)
 
 ---
 
