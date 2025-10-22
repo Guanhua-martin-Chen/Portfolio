@@ -4,7 +4,7 @@ Los Angeles, CA | gchen2002@g.ucla.edu | [LinkedIn](https://www.linkedin.com/in/
 
 ---
 
-## 👋 About Me
+## About Me
 I’m **Guanhua Chen**, a data science enthusiast passionate about using machine learning and analytics to drive real-world impact.  
 Currently pursuing my **Master of Engineering in Data Science at UCLA**.  
 I earned my **B.S. in Statistics (Data Science Option)** with a **minor in Applied Mathematics** from the **University of Washington**.  
@@ -12,7 +12,7 @@ My interests span **AI-driven healthcare**, **cloud computing performance optimi
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 **Languages:** Python, R, SQL, Java, JavaScript  
 **Tools:** PyTorch, TensorFlow, RStudio, MATLAB, Tableau, Azure, Git, Linux  
 **Focus Areas:** Machine Learning, Data Analytics, Statistical Modeling, Data Visualization, Cloud Computing
